@@ -1,0 +1,5 @@
+{
+  "name": "Inventory System",
+  "description": "A comprehensive inventory management system with features for tracking products, sales, purchases, and generating detailed reports. Includes user authentication and multi-language support.",
+  "requestFramePermissions": []
+}
